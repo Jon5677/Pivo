@@ -1,6 +1,6 @@
 html<!DOCTYPE html>
 <html> <head> 
-<title>Название магазина пива</title> 
+<title>Pivo pivo pivo</title> 
 </head> 
 <body> 
 <header> 
@@ -10,7 +10,7 @@ html<!DOCTYPE html>
 <li><a href="#">Контакты</a></li> </ul> 
 </nav> </header> <main> <aside> <nav> 
 <ul> <li><a href="#">Светлое</a></li> 
-<li><a href="#">Темное</a></li> 
+<li><a href="#">Крафтовое</a></li> 
 <li><a href="#">Безалкогольное</a></li> 
 </ul> </nav> 
 <form> <label for="search">Поиск</label> 
